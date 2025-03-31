@@ -213,7 +213,7 @@ void main() {
      const char msgWelcome[] = 
              "              *******************************************************\n\r"
              "              *                                                     *\n\r"
-             "              *        Welcome to SpydOS FOS Operating System       *\n\r"
+             "              *        Welcome to SpydOS Minix Operating System     *\n\r"
              "              *                                                     *\n\r"
              "              *******************************************************\n\r"
              "              *                                                     *\n\r" 
